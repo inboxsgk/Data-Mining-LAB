@@ -1,0 +1,51 @@
+RecordID,Gender,Age (Years),Weight (kg),Height (cm),BMI,Current Diet,Strict Diet Required
+1,Female,32,75,165,27.5,Mediterranean,No
+2,Male,45,54,180,16.7,Western,Yes
+3,Female,28,60,155,24.9,Vegan,No
+4,Male,22,78,175,25.5,Vegetarian,No
+5,Female,55,85,160,33.2,Low-Carb,Yes
+6,Male,38,80,185,23.3,Balanced,No
+7,Female,25,55,168,19.5,Vegetarian,No
+8,Male,42,100,180,30.9,Fast Food,Yes
+9,Female,35,70,163,26.4,Low-Fat,No
+10,Male,29,82,183,24.7,Mediterranean,No
+11,Female,48,92,162,35.1,Processed Food,Yes
+12,Male,36,88,188,24.8,Balanced,No
+13,Female,27,58,165,21.3,Vegetarian,No
+14,Male,50,95,178,30.1,Fast Food,Yes
+15,Female,33,68,158,27.2,Low-Carb,No
+16,Male,40,86,182,25.9,Mediterranean,No
+17,Female,26,54,160,21.1,Vegetarian,No
+18,Male,34,90,185,26.3,Western,Yes
+19,Female,39,72,161,27.8,Low-Fat,No
+20,Male,28,84,180,25.9,Mediterranean,No
+21,Female,45,88,155,36.5,Processed Food,Yes
+22,Male,37,82,183,24.5,Balanced,No
+23,Female,24,56,162,21.4,Vegetarian,No
+24,Male,48,98,175,32.1,Fast Food,Yes
+25,Female,31,65,156,26.7,Low-Carb,No
+26,Male,35,80,178,25.2,Mediterranean,No
+27,Female,23,52,158,20.8,Vegetarian,No
+28,Male,42,92,182,27.8,Western,Yes
+29,Female,37,68,159,26.9,Low-Fat,No
+30,Male,30,84,185,24.6,Mediterranean,No
+31,Female,44,90,160,35.2,Processed Food,Yes
+32,Male,38,86,180,26.4,Balanced,No
+33,Female,22,53,164,20,Vegetarian,No
+34,Male,46,94,177,30,Fast Food,Yes
+35,Female,30,66,157,26.8,Low-Carb,No
+36,Male,34,82,181,25.1,Mediterranean,No
+37,Female,21,50,155,20.7,Vegetarian,No
+38,Male,40,90,183,27.1,Western,Yes
+39,Female,35,70,158,28,Low-Fat,No
+40,Male,29,84,182,25.4,Mediterranean,No
+41,Female,43,85,155,33.4,Processed Food,Yes
+42,Male,36,80,179,24.9,Balanced,No
+43,Female,25,54,161,20.9,Vegetarian,No
+44,Male,47,96,176,31.1,Fast Food,Yes
+45,Female,32,67,158,26.9,Low-Carb,No
+46,Male,37,84,180,25.9,Mediterranean,No
+47,Female,24,51,166,18.5,Vegetarian,Yes
+48,Male,44,92,181,28.1,Western,Yes
+49,Female,30,65,157,26.3,Low-Fat,No
+50,Male,33,82,179,25.5,Mediterranean,No
