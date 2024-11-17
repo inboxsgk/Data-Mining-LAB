@@ -1,0 +1,60 @@
+Area_Name,Year,Group_Name,Sub_Group_Name,Auto_Theft_Coordinated/Traced,Auto_Theft_Recovered,Auto_Theft_Stolen
+Tamil Nadu,2001,AT1-Motor Cycles/ Scooters,1. Motor Cycles/ Scooters,0,2523,3858
+Tamil Nadu,2002,AT1-Motor Cycles/ Scooters,1. Motor Cycles/ Scooters,44,2934,4319
+Tamil Nadu,2003,AT1-Motor Cycles/ Scooters,1. Motor Cycles/ Scooters,1107,3013,4317
+Tamil Nadu,2004,AT1-Motor Cycles/ Scooters,1. Motor Cycles/ Scooters,2357,2561,3645
+Tamil Nadu,2005,AT1-Motor Cycles/ Scooters,1. Motor Cycles/ Scooters,2215,2353,3108
+Tamil Nadu,2006,AT1-Motor Cycles/ Scooters,1. Motor Cycles/ Scooters,2183,2423,2784
+Tamil Nadu,2007,AT1-Motor Cycles/ Scooters,1. Motor Cycles/ Scooters,1830,2222,2545
+Tamil Nadu,2008,AT1-Motor Cycles/ Scooters,1. Motor Cycles/ Scooters,2035,2672,3424
+Tamil Nadu,2009,AT1-Motor Cycles/ Scooters,1. Motor Cycles/ Scooters,2800,3571,4865
+Tamil Nadu,2010,AT1-Motor Cycles/ Scooters,1. Motor Cycles/ Scooters,2368,3234,4791
+Tamil Nadu,2001,AT2-Motor Car/Taxi/Jeep,2. Motor Car/Taxi/Jeep,0,126,197
+Tamil Nadu,2002,AT2-Motor Car/Taxi/Jeep,2. Motor Car/Taxi/Jeep,2,120,158
+Tamil Nadu,2003,AT2-Motor Car/Taxi/Jeep,2. Motor Car/Taxi/Jeep,54,109,166
+Tamil Nadu,2004,AT2-Motor Car/Taxi/Jeep,2. Motor Car/Taxi/Jeep,71,95,128
+Tamil Nadu,2005,AT2-Motor Car/Taxi/Jeep,2. Motor Car/Taxi/Jeep,54,60,93
+Tamil Nadu,2006,AT2-Motor Car/Taxi/Jeep,2. Motor Car/Taxi/Jeep,87,93,131
+Tamil Nadu,2007,AT2-Motor Car/Taxi/Jeep,2. Motor Car/Taxi/Jeep,70,74,100
+Tamil Nadu,2008,AT2-Motor Car/Taxi/Jeep,2. Motor Car/Taxi/Jeep,121,135,200
+Tamil Nadu,2009,AT2-Motor Car/Taxi/Jeep,2. Motor Car/Taxi/Jeep,104,140,194
+Tamil Nadu,2010,AT2-Motor Car/Taxi/Jeep,2. Motor Car/Taxi/Jeep,119,185,265
+Tamil Nadu,2001,AT3-Buses,3. Buses,0,7,8
+Tamil Nadu,2002,AT3-Buses,3. Buses,0,1,2
+Tamil Nadu,2003,AT3-Buses,3. Buses,0,2,2
+Tamil Nadu,2004,AT3-Buses,3. Buses,2,2,2
+Tamil Nadu,2005,AT3-Buses,3. Buses,1,1,1
+Tamil Nadu,2007,AT3-Buses,3. Buses,2,3,3
+Tamil Nadu,2008,AT3-Buses,3. Buses,0,0,0
+Tamil Nadu,2009,AT3-Buses,3. Buses,4,4,4
+Tamil Nadu,2010,AT3-Buses,3. Buses,1,1,1
+Tamil Nadu,2001,AT4-Goods carrying vehicles (Trucks/Tempo etc),4. Goods carrying vehicles (Trucks/Tempo etc),NULL,18,22
+Tamil Nadu,2002,AT4-Goods carrying vehicles (Trucks/Tempo etc),4. Goods carrying vehicles (Trucks/Tempo etc),0,15,20
+Tamil Nadu,2003,AT4-Goods carrying vehicles (Trucks/Tempo etc),4. Goods carrying vehicles (Trucks/Tempo etc),18,36,36
+Tamil Nadu,2004,AT4-Goods carrying vehicles (Trucks/Tempo etc),4. Goods carrying vehicles (Trucks/Tempo etc),25,25,29
+Tamil Nadu,2005,AT4-Goods carrying vehicles (Trucks/Tempo etc),4. Goods carrying vehicles (Trucks/Tempo etc),21,21,24
+Tamil Nadu,2006,AT4-Goods carrying vehicles (Trucks/Tempo etc),4. Goods carrying vehicles (Trucks/Tempo etc),17,17,17
+Tamil Nadu,2007,AT4-Goods carrying vehicles (Trucks/Tempo etc),4. Goods carrying vehicles (Trucks/Tempo etc),43,56,59
+Tamil Nadu,2008,AT4-Goods carrying vehicles (Trucks/Tempo etc),4. Goods carrying vehicles (Trucks/Tempo etc),39,55,65
+Tamil Nadu,2009,AT4-Goods carrying vehicles (Trucks/Tempo etc),4. Goods carrying vehicles (Trucks/Tempo etc),20,49,55
+Tamil Nadu,2010,AT4-Goods carrying vehicles (Trucks/Tempo etc),4. Goods carrying vehicles (Trucks/Tempo etc),21,29,34
+Tamil Nadu,2001,AT5-Other Motor vehicles,5. Other Motor vehicles,0,84,175
+Tamil Nadu,2002,AT5-Other Motor vehicles,5. Other Motor vehicles,2,135,178
+Tamil Nadu,2003,AT5-Other Motor vehicles,5. Other Motor vehicles,34,52,60
+Tamil Nadu,2004,AT5-Other Motor vehicles,5. Other Motor vehicles,176,184,201
+Tamil Nadu,2005,AT5-Other Motor vehicles,5. Other Motor vehicles,184,189,357
+Tamil Nadu,2006,AT5-Other Motor vehicles,5. Other Motor vehicles,69,72,77
+Tamil Nadu,2007,AT5-Other Motor vehicles,5. Other Motor vehicles,138,149,181
+Tamil Nadu,2008,AT5-Other Motor vehicles,5. Other Motor vehicles,41,49,58
+Tamil Nadu,2009,AT5-Other Motor vehicles,5. Other Motor vehicles,57,62,80
+Tamil Nadu,2010,AT5-Other Motor vehicles,5. Other Motor vehicles,54,92,114
+Tamil Nadu,2001,AT6-Total,6. Total (Sum of 1-5 Above),0,2758,4260
+Tamil Nadu,2002,AT6-Total,6. Total (Sum of 1-5 Above),48,3205,4677
+Tamil Nadu,2003,AT6-Total,6. Total (Sum of 1-5 Above),1213,3212,4581
+Tamil Nadu,2004,AT6-Total,6. Total (Sum of 1-5 Above),2631,2867,4005
+Tamil Nadu,2005,AT6-Total,6. Total (Sum of 1-5 Above),2475,2624,3583
+Tamil Nadu,2006,AT6-Total,6. Total (Sum of 1-5 Above),2356,2605,3009
+Tamil Nadu,2007,AT6-Total,6. Total (Sum of 1-5 Above),2083,2504,2888
+Tamil Nadu,2008,AT6-Total,6. Total (Sum of 1-5 Above),2236,2911,3747
+Tamil Nadu,2009,AT6-Total,6. Total (Sum of 1-5 Above),2985,3826,5198
+Tamil Nadu,2010,AT6-Total,6. Total (Sum of 1-5 Above),2563,3541,5205
